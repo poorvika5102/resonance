@@ -96,7 +96,7 @@ resonance/
 │   ├── routes/
 │   ├── services/
 │   └── adapters/         # Platform-specific handlers
-├── models/               # Data models & analysis
+├── shared/               
 ├── public/
 └── README.md
 ```
