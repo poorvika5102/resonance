@@ -87,21 +87,6 @@ The API is fully open-source and developer-friendly. Key endpoints include:
 
 ---
 
-## 📂 Project Structure
-
-```
-resonance/
-├── client/               # React + TypeScript frontend
-├── server/               # Express.js API backend
-│   ├── routes/
-│   ├── services/
-│   └── adapters/         # Platform-specific handlers
-├── shared/               
-├── public/
-└── README.md
-```
-
----
 
 ## 📜 License
 
